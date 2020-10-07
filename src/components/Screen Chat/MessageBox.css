@@ -1,0 +1,22 @@
+
+.textMessage{
+    background-color:#f7f7f7 ;
+    border-radius: 0px 10px 10px 10px;
+}
+.textMessageLabel{
+    padding: 5px;
+    white-space: normal; 
+    text-align: justify;
+    text-justify: inter-word;
+    
+}
+.textDetalis{
+    color:#BDBBBB ;
+}
+.MessageBox{
+   margin-top: 150px;
+}
+.TextGoalType{
+  text-decoration: underline;
+  text-decoration-color: #3ebfcf;
+ }

@@ -1,0 +1,11 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 35%;
+}
+.input{
+    height: 80px;
+    border-width:0px;
+    border:none;
+    
+}
